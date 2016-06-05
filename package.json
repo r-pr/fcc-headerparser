@@ -4,5 +4,8 @@
   "author": "r-pr",
   "dependencies": {
     "express": "^4.13.4"
+  },
+  "scripts": {
+    "run": "node app.js"
   }
 }
