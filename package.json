@@ -1,0 +1,8 @@
+{
+  "main": "app.js",
+  "repository": "https://github.com/r-pr/fcc-headerparser",
+  "author": "r-pr",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
